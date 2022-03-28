@@ -16,7 +16,7 @@
 
 # Conteúdo
 * instalar o compilador
-* instalar o VScode
+* instalar o [**VScode**](https://code.visualstudio.com/download)
 * escrevendo o primeiro código
 * compilando o primeiro código
 * executando o primeiro código
