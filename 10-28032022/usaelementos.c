@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
-#include<elementos.h>
+#include"elementos.h"
 
 void main(){
     
@@ -8,5 +8,5 @@ void main(){
     printf("Texto para exibir");
     quebrarLinha(2);
     separador();
-    
+
 }
