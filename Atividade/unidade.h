@@ -1,5 +1,5 @@
 /*
-Biblioteca para captar informações sobre o curso
+Biblioteca para captar informações sobre a unidade
 */
 
 #include<stdio.h>

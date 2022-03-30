@@ -1,3 +1,7 @@
+/*
+Biblioteca para capturar dados de curso e unidade
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 #include"curso.h"
